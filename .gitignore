@@ -6,3 +6,11 @@ gron
 cpu.out
 gron.test
 
+__pycache__
+*.pyc
+*.pyd
+*.pyo
+.vscode
+.idea
+Thumbs.db
+.Ds_Store
